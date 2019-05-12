@@ -8,11 +8,11 @@
 </p>
 
 ## Installation
-change database name in `.env` file
-Run `php artisan migrate`
-Run `php artisan db:seed --class=PermissionTableSeeder`
-Run `php artisan key:generate`
-Run `php artisan serve`
+- change database name in `.env` file
+- Run `php artisan migrate`
+- Run `php artisan db:seed --class=PermissionTableSeeder`
+- Run `php artisan key:generate`
+- Run `php artisan serve`
 
 ## About Laravel
 
